@@ -1,0 +1,47 @@
+
+#logo{
+       background-color: rgba(212, 193, 21, 0.947);
+       border-radius: 10px;
+       height: 50px;
+       display: inline-block;
+       display: flex;
+       width: 200px;
+       font-size: 15px;
+       
+       
+}
+.phead{
+    border: 2px solid green;
+    
+    display: flex;
+}
+#pheada{
+
+    height: 50px;
+    /* margin-left: 500px; */
+    display: flex;
+    margin-left: 500px;
+
+}
+#chead{
+    
+    display: flex;
+    
+    
+    
+}
+#offer{
+    height: 30px;
+    margin-top: 9px;
+}
+#chead1{
+    
+    display: flex;
+    margin-left: 50px;
+}
+#login{
+    display: flex;
+    justify-self:flex end;
+    align-self:flex-end;
+    
+}
