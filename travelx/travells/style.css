@@ -16,14 +16,18 @@
     display: flex;
 }
 #pheada{
-
+    width: 600px;
     height: 50px;
-    /* margin-left: 500px; */
+    margin-left: 800px;
     display: flex;
     margin-left: 500px;
+    border: 1px solid red;
+    gap:10px;
+    justify-content: center;
+    align-content: center;
 
 }
-#chead{
+ #chead{
     
     display: flex;
     
@@ -33,15 +37,32 @@
 #offer{
     height: 30px;
     margin-top: 9px;
-}
+    justify-items: center;
+    align-items: center; 
+
+
+} 
 #chead1{
-    
+    height: 30px;
     display: flex;
     margin-left: 50px;
+    margin-top: 15px;
+    justify-items: center;
+    align-items: center; 
 }
 #login{
     display: flex;
-    justify-self:flex end;
-    align-self:flex-end;
-    
+    justify-items:center;
+    align-self: center;
+    margin-left: 100px;
+    margin-right: 20px;
+    margin-top: 10px;
+    gap:10px;
 }
+#cc{
+    margin-bottom: 15px;
+}
+#logimg{
+    margin-top: 10px;
+}
+
